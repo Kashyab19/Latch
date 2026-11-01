@@ -1,0 +1,6 @@
+Welcome to the permission-loop sandbox.
+
+Project: Latch (teaching prototype)
+Idea: every tool call pauses at a permission gate before it runs.
+
+Secret demo value: aurora-42
